@@ -5,7 +5,7 @@
 Öncelikle projeyi kolonlayın.
 
 ```
-git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/assignment-3-sinemyoruc.git
+git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/assignment-4-sinemyoruc.git
 ```
 
 ## Usage
