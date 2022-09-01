@@ -1,5 +1,5 @@
 # K-Means Algorithm with C#
-
+Bu projede en yakın konumları gruplayarak önceki ödevdeki araçların minimum efor harcayarak atıkları toplaması amaçlanmıştır.
 
 ## Installation
 Öncelikle projeyi klonlayın.
