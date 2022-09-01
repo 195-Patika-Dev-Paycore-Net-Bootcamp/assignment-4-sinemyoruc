@@ -1,4 +1,4 @@
-# Konu başlığı
+# K-Means Algorithm with C#
 
 
 ## Installation
@@ -16,8 +16,7 @@ Daha sonra uygulamayı çalıştırabilirsiniz.
 
 ## Outputs
 
-### Successful
+
 ![](SinemYoruc-Odev2/Screenshots/..)
 
-### Errors
 
