@@ -21,7 +21,7 @@ namespace SinemYoruc_HW4
                 c.Dialect<PostgreSQLDialect>();
                 c.ConnectionString = connectionString;
                 c.KeywordsAutoImport = Hbm2DDLKeyWords.AutoQuote;
-                c.SchemaAction = SchemaAutoAction.Validate;
+                c.SchemaAction = SchemaAutoAction.Update;    //genelde validate kullanilir ama tabloyu yeni olusturmak istiyorsak update kullanabiliriz.
                 c.LogFormattedSql = true;
                 c.LogSqlInConsole = true;
             });
