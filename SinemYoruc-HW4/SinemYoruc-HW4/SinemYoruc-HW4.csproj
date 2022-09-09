@@ -6,9 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Accord.MachineLearning" Version="3.8.0" />
     <PackageReference Include="AutoMapper" Version="11.0.1" />
-    <PackageReference Include="CenterSpace.NMath.Standard.Windows.X64" Version="7.4.0.15" />
     <PackageReference Include="FluentNHibernate" Version="3.1.0" />
     <PackageReference Include="Microsoft.ML" Version="1.7.1" />
     <PackageReference Include="NHibernate" Version="5.3.12" />
