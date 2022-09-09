@@ -15,8 +15,6 @@ Daha sonra uygulamayı çalıştırabilirsiniz.
 
 
 ## Outputs
-
-
-![](SinemYoruc-Odev2/Screenshots/..)
+K-Means paketleri ve algoritmayı baştan yazma dahil birçok şey denedim fakat kendi projeme uyarlama konusunda çok sıkıntı yaşadım ve ödevi tam anlamıyla bitiremedim.
 
 
