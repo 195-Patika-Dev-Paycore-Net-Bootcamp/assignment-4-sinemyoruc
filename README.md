@@ -13,8 +13,3 @@ Projeyi klonladıktan sonra Visual Studio 2022 programında açınız.
 
 Daha sonra uygulamayı çalıştırabilirsiniz.
 
-
-## Outputs
-K-Means paketleri ve algoritmayı baştan yazma dahil birçok şey denedim fakat kendi projeme uyarlama konusunda çok sıkıntı yaşadım ve ödevi tam anlamıyla bitiremedim.
-
-
